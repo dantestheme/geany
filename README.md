@@ -1,4 +1,4 @@
-#🎩 Monte Cristo for Geany
+# 🎩 Monte Cristo for Geany
 
 ## [Geany](https://www.geany.org/)
 
