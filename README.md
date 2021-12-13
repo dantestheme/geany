@@ -1,4 +1,4 @@
-# 🎩 Monte Cristo for Geany
+# 🎩 Dantes for Geany
 
 ## [Geany](https://www.geany.org/)
 
@@ -16,5 +16,5 @@ On Windows:
 
 ## More info.
 
-You can find more apps with Monte Cristo Theme in [this website](https://monte-cristos.github.io/monte-cristo-website/).  
-If you'd like to contribute to this theme, please visit our [Github](https://github.com/monte-cristos). You can also know about more informations too.
+You can find more apps on [this website](https://dantestheme.github.io/dantes-website/).  
+If you'd like to contribute to this theme, please visit our [Github](https://github.com/dantestheme/dantes-theme). You can also know about more informations too.
